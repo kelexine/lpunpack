@@ -1,4 +1,3 @@
-#!/usr/python3
 import argparse
 import copy
 import enum
